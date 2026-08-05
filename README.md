@@ -6,14 +6,9 @@
 
 *Battle through enemy fleets, unlock powerful weapons, defeat unique bosses, and survive the endless depths of space.*
 
-<img src="SV GIFS/SI Intro.gif" width="33%"/> 
-<img src="SV GIFS/SI GIF Cruiser.gif" width="33%"/> 
-<img src="SV GIFS/SI GIF TwinCanon.gif" width="33%"/>
-<img src="SV GIFS/SI GIF Mothership.gif" width="33%"/> 
-
-<br>
-
-<img src="SV GIFS/SI GIF Mothership.gif" width="48%"/>
+<img src="SV GIFS/SI GIF Cruiser.gif" width="48%"/> 
+<img src="SV GIFS/SI GIF TwinCanon.gif" width="48%"/>
+<img src="SV GIFS/SI GIF Mothership.gif" width="48%"/> 
 <img src="SV GIFS/SI GIF PowerUps.gif" width="48%"/>
 
 ![C++](https://img.shields.io/badge/C++-17-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)

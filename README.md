@@ -68,7 +68,9 @@ An endless wave-based mode with no bosses. Survive as long as possible and chase
 <img src="SV Screenshots/MotherShip.jpeg" width="48%"/>
 
 </div>
+
 ---
+
 # ⚔️ Weapons & Power-Ups
 
 Players start with the Standard Shooter. Defeated enemies rarely drop weapons or defense upgrades.

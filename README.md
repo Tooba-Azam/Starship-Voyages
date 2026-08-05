@@ -23,7 +23,7 @@
 # 📸 Preview
 <div align="center">
 
-<img src="SV Screenshots/Intro.jpeg" width="48%"/> <img src="SV Screenshots/Powerups.jpeg" width="48%"/><img src="SV Screenshots/MotherShip Boss.jpeg" width="48%"/>
+<img src="SV Screenshots/Intro.jpeg" width="48%"/> <img src="SV Screenshots/PowerUps.jpeg" width="48%"/><img src="SV Screenshots/MotherShip.jpeg" width="48%"/>
 
 </div>
 

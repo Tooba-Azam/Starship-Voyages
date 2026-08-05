@@ -20,17 +20,6 @@
 
 ---
 
-# 📸 Preview
-<div align="center">
-
-<img src="SV Screenshots/Intro.jpeg" width="48%"/>
-<img src="SV Screenshots/PowerUps.jpeg" width="48%"/>
-<img src="SV Screenshots/MotherShip.jpeg" width="48%"/>
-
-</div>
-
----
-
 # 🎮 Game Modes
 
 ## Arcade Mode
@@ -71,6 +60,15 @@ An endless wave-based mode with no bosses. Survive as long as possible and chase
 
 ---
 
+# 📸 Preview
+<div align="center">
+
+<img src="SV Screenshots/Intro.jpeg" width="48%"/>
+<img src="SV Screenshots/PowerUps.jpeg" width="48%"/>
+<img src="SV Screenshots/MotherShip.jpeg" width="48%"/>
+
+</div>
+---
 # ⚔️ Weapons & Power-Ups
 
 Players start with the Standard Shooter. Defeated enemies rarely drop weapons or defense upgrades.
@@ -136,7 +134,7 @@ git clone https://github.com/Tooba-Azam/Starship-Voyages.git
 ### Requirements
 
 - C++17
-- SFML 2.6.x
+- SFML 2.6.1
 
 Compile the project and ensure the **Assets** folder is placed alongside the executable.
 
